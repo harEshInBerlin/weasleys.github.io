@@ -18,9 +18,9 @@ Facing an existential crisis now that my goals for a long time were achieved, I 
 ### Travel
 * Go hiking outside UK. :sunrise_over_mountains:
 * Travel to at least 8 new countries.
-..* Spain - Barcelona
-..* Netherlands - Amsterdam 
-..* Brugge - Belgium
+	* Spain - Barcelona
+	* Netherlands - Amsterdam 
+	* Brugge - Belgium
 
 ### Career
 * Personal Goals.
