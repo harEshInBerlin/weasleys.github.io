@@ -6,8 +6,9 @@ permalink: /goals/
 
 In 2017 I graduated from uni, got the best job straight outta uni, threw that away for a chance to live abroad and am now living it up in London.
 Facing an existential crisis now that my goals for a long time were achieved, I start this blog with the optimism for 2018.
+The hope is that every week I'd write a blog post about my week that was. :)
 
-##Starting 2018 with goals!
+### 2018 Goals
 
 ### Fitness
 * Run 5k. - Tough 5k at Greenwich Park, 24 March.
@@ -27,7 +28,7 @@ Facing an existential crisis now that my goals for a long time were achieved, I 
 * Learn to build an iOS app.
 
 ### Personality Goals
-* Learn to swing dance.
+* Learn to swing dance. :dancer:
 * Learn spanish!
 
 ### Read 52 books, 1 for each week!
@@ -35,5 +36,6 @@ Facing an existential crisis now that my goals for a long time were achieved, I 
 * Homo Deus - Yuval Noah Harari
 * Fear and Loathing in Las Vegas - Hunter Thompson
 * Thinking in Systems - Donella H. Meadows
+* 1984 - George Orwell 
 
 Will keep on adding to this list as the year progress! :)
