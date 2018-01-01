@@ -26,6 +26,7 @@ The hope is that every week I'd write a blog post about my week that was. :)
 ### Career
 * Personal Goals - keeping to myself.
 * Learn to build an iOS app. 
+* Write one medium blog post every week about an NLP paper.
 
 ### Personality Goals
 * Learn to swing dance. :dancer:
