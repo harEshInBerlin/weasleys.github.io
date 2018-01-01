@@ -31,6 +31,9 @@ Facing an existential crisis now that my goals for a long time were achieved, I 
 * Learn spanish!
 
 ### Read 52 books, 1 for each week!
+
+https://media.giphy.com/media/R8HesZtwvngQM/giphy.gif
+
 * Homo Deus - Yuval Noah Harari
 * Fear and Loathing in Las Vegas - Hunter Thompson
 * Thinking in Systems - Donella H. Meadows
