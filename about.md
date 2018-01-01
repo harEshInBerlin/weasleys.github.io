@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Goals for 2018
-permalink: /about/
+permalink: /goals/
 ---
 
 In 2017 I graduated from uni, got the best job straight outta uni, threw that away for a chance to live abroad and am now living it up in London.
