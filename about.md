@@ -16,7 +16,7 @@ Facing an existential crisis now that my goals for a long time were achieved, I 
 * Lose 10 kgs. XD
 
 ### Travel
-* Go hiking outside UK. :sunrise_over_mountains:
+* Go hiking outside UK.
 * Travel to at least 8 new countries.
 	* Spain - Barcelona
 	* Netherlands - Amsterdam 
@@ -27,12 +27,12 @@ Facing an existential crisis now that my goals for a long time were achieved, I 
 * Learn to build an iOS app.
 
 ### Personality Goals
-* Learn to swing dance. :dancer: 
+* Learn to swing dance.
 * Learn spanish!
 
 ### Read 52 books, 1 for each week!
 
-https://media.giphy.com/media/R8HesZtwvngQM/giphy.gif
+![Alt Text](htps://media.giphy.com/media/R8HesZtwvngQM/giphy.gif)
 
 * Homo Deus - Yuval Noah Harari
 * Fear and Loathing in Las Vegas - Hunter Thompson
