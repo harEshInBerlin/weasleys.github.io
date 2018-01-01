@@ -33,9 +33,10 @@ The hope is that every week I'd write a blog post about my week that was. :)
 
 ### Read 52 books, 1 for each week! :books:
 
-* Homo Deus - Yuval Noah Harari
-* Fear and Loathing in Las Vegas - Hunter Thompson
-* Thinking in Systems - Donella H. Meadows
-* 1984 - George Orwell 
+* January
+	* Homo Deus - Yuval Noah Harari
+	* Fear and Loathing in Las Vegas - Hunter Thompson
+	* Thinking in Systems - Donella H. Meadows
+	* 1984 - George Orwell 
 
 Will keep on adding to this list as the year progress! :)
