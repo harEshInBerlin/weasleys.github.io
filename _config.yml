@@ -15,7 +15,7 @@ avatar: https://i.pinimg.com/564x/68/b8/54/68b85401a42673dc328a30bf5af8e847.jpg
 # Flags below are optional
 #
 
-plugins:
+gems:
 	- jemoji
 
 # Includes an icon in the footer for each username you enter
