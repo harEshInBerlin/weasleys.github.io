@@ -38,6 +38,6 @@ The hope is that every week I'd write a blog post about my week that was. :)
 	* Homo Deus - Yuval Noah Harari
 	* Fear and Loathing in Las Vegas - Hunter Thompson
 	* Thinking in Systems - Donella H. Meadows
-	* 1984 - George Orwell 
+	* ~~1984 - George Orwell~~ Seven Brief Lessons on Physics - Carlo Rovelli
 
 Will keep on adding to this list as the year progress! :)
