@@ -34,7 +34,7 @@ The hope is that every week I'd write a blog post about my week that was. :)
 
 ### Read 52 books, 1 for each week! :books:
 
-* January
+#### January
 	- [] Homo Deus - Yuval Noah Harari
 	- [] Fear and Loathing in Las Vegas - Hunter Thompson
 	- [] Thinking in Systems - Donella H. Meadows
@@ -42,7 +42,7 @@ The hope is that every week I'd write a blog post about my week that was. :)
 
 ### Papers 
 
-* January
+#### January
 	* [Story Comprehension for Predicting What Happens Next](http://aclweb.org/anthology/D17-1168) 
 	* [Encoding of phonology in a recurrent neural model of grounded speech](https://aclweb.org/anthology/K/K17/K17-1037.pdf)
 	* [Understanding and Detecting Supporting Arguments of Diverse Types](http://www.ccs.neu.edu/home/luwang/papers/ACL2017b.pdf) 
