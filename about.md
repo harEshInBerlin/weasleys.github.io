@@ -35,17 +35,17 @@ The hope is that every week I'd write a blog post about my week that was. :)
 ### Read 52 books, 1 for each week! :books:
 
 #### January
-	- [] Homo Deus - Yuval Noah Harari
-	- [] Fear and Loathing in Las Vegas - Hunter Thompson
-	- [] Thinking in Systems - Donella H. Meadows
-	- [x]  Seven Brief Lessons on Physics - Carlo Rovelli
+- [] Homo Deus - Yuval Noah Harari
+- [] Fear and Loathing in Las Vegas - Hunter Thompson
+- [] Thinking in Systems - Donella H. Meadows
+- [x]  Seven Brief Lessons on Physics - Carlo Rovelli
 
 ### Papers 
 
 #### January
-	* [Story Comprehension for Predicting What Happens Next](http://aclweb.org/anthology/D17-1168) 
-	* [Encoding of phonology in a recurrent neural model of grounded speech](https://aclweb.org/anthology/K/K17/K17-1037.pdf)
-	* [Understanding and Detecting Supporting Arguments of Diverse Types](http://www.ccs.neu.edu/home/luwang/papers/ACL2017b.pdf) 
-	* [Abstract Syntax Networks for Code Generation and Semantic Parsing](https://arxiv.org/pdf/1704.07535.pdf)
+- [] [Story Comprehension for Predicting What Happens Next](http://aclweb.org/anthology/D17-1168) 
+- [] [Encoding of phonology in a recurrent neural model of grounded speech](https://aclweb.org/anthology/K/K17/K17-1037.pdf)
+- [x] [Understanding and Detecting Supporting Arguments of Diverse Types](http://www.ccs.neu.edu/home/luwang/papers/ACL2017b.pdf) 
+- [] [Abstract Syntax Networks for Code Generation and Semantic Parsing](https://arxiv.org/pdf/1704.07535.pdf)
 
 Will keep on adding to this list as the year progress! :)
