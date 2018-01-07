@@ -40,4 +40,12 @@ The hope is that every week I'd write a blog post about my week that was. :)
 	* Thinking in Systems - Donella H. Meadows
 	* ~~1984 - George Orwell~~ Seven Brief Lessons on Physics - Carlo Rovelli
 
+### Papers 
+
+* January
+	* [Story Comprehension for Predicting What Happens Next](http://aclweb.org/anthology/D17-1168) 
+	* [Encoding of phonology in a recurrent neural model of grounded speech](https://aclweb.org/anthology/K/K17/K17-1037.pdf)
+	* [Understanding and Detecting Supporting Arguments of Diverse Types](http://www.ccs.neu.edu/home/luwang/papers/ACL2017b.pdf) 
+	* [Abstract Syntax Networks for Code Generation and Semantic Parsing](https://arxiv.org/pdf/1704.07535.pdf)
+
 Will keep on adding to this list as the year progress! :)
